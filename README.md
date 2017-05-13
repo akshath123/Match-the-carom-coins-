@@ -7,4 +7,4 @@ https://youtu.be/EhPWe8N_W2I
 
 ### Minimum requirements for running the application
 
-The game requires Turbo C to run the application and for windows environment. 
+The game requires Turbo C to run the application and is only for windows environment. 
