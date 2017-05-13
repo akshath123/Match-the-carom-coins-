@@ -9,4 +9,4 @@ https://youtu.be/EhPWe8N_W2I
 
 The game requires Turbo C to run the application and is only for windows environment. 
 
-#### Note: If you are trying make sure to press "Enter" key when Welcome becomes stable on the screen.
+#### Note: If you are trying the game make sure you press "Enter" key when Welcome becomes stable on the screen.
